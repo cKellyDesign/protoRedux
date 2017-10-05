@@ -2,4 +2,4 @@
 
 Install via `$ yarn install`
 
-Run via `npm run dev`
+Run via `$ npm run dev`
